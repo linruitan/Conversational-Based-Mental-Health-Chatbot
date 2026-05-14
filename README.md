@@ -1,5 +1,4 @@
-# Conversational-Based-Mental-Health-Chatbot
-
+# Mind Care: A Conversational-Based-Mental-Health-Chatbot
 # 🧠 Stress Router + Gemini Chatbot
 
 This project is a Gradio web app that routes each user message through a stress classifier, then sends it to one of two Gemini 2.5 Pro chatbots:
